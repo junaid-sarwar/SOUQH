@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-- **Frontend**: React.js
+- **Frontend**: Vite + React.js
 - **Backend**: Node.js with Express.js
 - **AI Features**: Python (for AI/ML models)
 - **Real-Time Communication**: WebSockets (e.g., Socket.IO)
@@ -60,7 +60,7 @@
    - Start the frontend:
      ```bash
      cd frontend
-     npm start
+     npm run dev
      ```
 
 ---
@@ -97,7 +97,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, please reach out to us at **your-email@example.com**.
+For any questions or feedback, please reach out to us at **junaidsarwariqbal@gmail.com**.
 
 ---
 
