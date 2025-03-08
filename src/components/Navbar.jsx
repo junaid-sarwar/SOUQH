@@ -5,14 +5,13 @@ import SouqhLogo from '../assets/logos/souqh-no-bg-logo.png'
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
-  const navRef = useRef(null); // Reference for navbar
+  const navRef = useRef(null); 
 
   useEffect(() => {
-    // Ensure GSAP runs after component mounts
     gsap.fromTo(
-      navRef.current.children, // Animate each child (nav items)
-      { opacity: 0, y: -20 }, // From state
-      { opacity: 1, y: 0, duration: 0.8, stagger: 0.2, ease: "power3.out" } // To state
+      navRef.current.children, 
+      { opacity: 0, y: -20 }, 
+      { opacity: 1, y: 0, duration: 0.8, stagger: 0.2, ease: "power3.out" }
     );
   }, []);
 
