@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "username": "Farhan",
+      "password": "1234",
+      "firstName": "Farhan",
+      "lastName": "Rajput",
+      "products": [1, 2]
+    },
+    {
+      "id": 2,
+      "username": "Junaid",
+      "password": "1234",
+      "firstName": "Junaid",
+      "lastName": "Sarwar",
+      "products": [3]
+    },
+    {
+      "id": 3,
+      "username": "Kareem",
+      "password": "1234",
+      "firstName": "Kareem",
+      "lastName": "Khan",
+      "products": []
+    },
+    {
+      "id": 4,
+      "username": "Usman",
+      "password": "1234",
+      "firstName": "Usman",
+      "lastName": "Sajid",
+      "products": [4]
+    }
+   
+  ]
+  

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "sold": 120,
+      "remaining": 30,
+      "profit": 2000,
+      "price": "$999",
+      "stock": 12,
+      "monthlyPerformance": [
+        { "month": "Jan", "sold": 5, "remaining": 7, "profit": 1000 },
+        { "month": "Feb", "sold": 3, "remaining": 4, "profit": 600 },
+        { "month": "Mar", "sold": 4, "remaining": 3, "profit": 800 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "sold": 250,
+      "remaining": 50,
+      "profit": 3500,
+      "price": "$799",
+      "stock": 25,
+      "monthlyPerformance": [
+        { "month": "Jan", "sold": 8, "remaining": 12, "profit": 800 },
+        { "month": "Feb", "sold": 10, "remaining": 10, "profit": 1000 },
+        { "month": "Mar", "sold": 12, "remaining": 8, "profit": 1200 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "sold": 90,
+      "remaining": 20,
+      "profit": 1800,
+      "price": "$499",
+      "stock": 15,
+      "monthlyPerformance": [
+        { "month": "Jan", "sold": 6, "remaining": 9, "profit": 600 },
+        { "month": "Feb", "sold": 5, "remaining": 7, "profit": 500 },
+        { "month": "Mar", "sold": 4, "remaining": 4, "profit": 400 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "sold": 150,
+      "remaining": 35,
+      "profit": 2200,
+      "price": "$899",
+      "stock": 18,
+      "monthlyPerformance": [
+        { "month": "Jan", "sold": 7, "remaining": 9, "profit": 700 },
+        { "month": "Feb", "sold": 6, "remaining": 8, "profit": 600 },
+        { "month": "Mar", "sold": 8, "remaining": 6, "profit": 900 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "sold": 50,
+      "remaining": 15,
+      "profit": 1000,
+      "price": "$299",
+      "stock": 8,
+      "monthlyPerformance": [
+        { "month": "Jan", "sold": 3, "remaining": 5, "profit": 300 },
+        { "month": "Feb", "sold": 2, "remaining": 4, "profit": 200 },
+        { "month": "Mar", "sold": 2, "remaining": 3, "profit": 500 }
+      ]
+    }
+  ]
+  
