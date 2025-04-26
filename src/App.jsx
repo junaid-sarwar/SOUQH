@@ -1,12 +1,10 @@
-import './App.css'
+import React from 'react';
+import UserDashboard from './components/userDashboard';
 
 function App() {
-
   return (
-    <>
-      <h1 className='text-3xl font-bold underline'>Building SOUQH</h1>
-    </>
-  )
+    <UserDashboard />
+  );
 }
 
-export default App
+export default App;
